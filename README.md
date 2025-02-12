@@ -38,8 +38,3 @@ The available products and their prices are as follows:
 - **Maida**: ₹40 per kg
 
 ---
-
-## How to Run:
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/Mohammad-Suhail-Alam/SuperMarket_Billing_system.git
